@@ -3,7 +3,7 @@
 </head>
 <body>
 <!--Hi image tag is very cool to learn-->
-<img src="dance.jpg">
+<img src="doreamon.jpg">
 </img>
 
 </body>
